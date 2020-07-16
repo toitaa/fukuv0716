@@ -16,5 +16,10 @@ namespace fukuv0716
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
